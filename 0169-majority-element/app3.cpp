@@ -18,6 +18,6 @@ public:
                 return ans;
             }
         }
-        return -1;
+        return ans;
     }
 };
